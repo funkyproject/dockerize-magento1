@@ -1,7 +1,7 @@
 {
-  "name": "wambo/dockerize-magento1",
+  "name": "funkyproject/dockerize-magento1",
   "description": "Docker infrastructure defintions for Magento 1",
-  "homepage": "https://github.com/wambo-co/dockerize-magento1",
+  "homepage": "https://github.com/funkyproject/dockerize-magento1",
   "license": "Apache-2.0",
   "authors": [
       {
